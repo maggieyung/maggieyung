@@ -19,9 +19,9 @@ My name is Maggie, and I'm a software developer studying CS @ UMass Boston with 
 
 
 
-•	Tools: Jupyter, NumpY, Pandas, Matplotlib, Scikit-Learn, Unity
+**•	Tools:** Jupyter, NumpY, Pandas, Matplotlib, Scikit-Learn, Unity
 
-•	Programming: Python, C, C#, Java, HTML
+**•	Programming:** Python, C, C#, Java, HTML
 
 
 Contact: maggieyung677@gmail.com
@@ -33,6 +33,9 @@ LinkedIn: https://www.linkedin.com/in/maggieyung/
 I am currently developing a 2.5D role-playing game in Unity using C#!
 
 ![Unity_kO1F8JiR53](https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2)
+
+
+feel free to check out my AI Studio project repo! *(work-in-progress)* https://github.com/maggieyung/AI-studio
 
 
 fun fact: I really like cats and Pingu!! 
