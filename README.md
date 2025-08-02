@@ -32,7 +32,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 ## 🌲 Contact
 **Email:** maggieyung677@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/maggieyung/
+**LinkedIn:** [/in/maggieyung/](https://www.linkedin.com/in/maggieyung/)
 <br>
 
 ## 🍏 Featured Projects
