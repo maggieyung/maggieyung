@@ -70,6 +70,7 @@ Fun fact: I like cats, eerie environments, and Pingu!!
 
 <img width="300" height="150" alt="image (6)" src="https://github.com/user-attachments/assets/dac75b3e-e72e-43fc-9e1d-62859d5e51a1" />
 
+<br>
 Thank you for reading! 
 <img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
 
