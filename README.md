@@ -50,7 +50,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 <img width="165" height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" />
 
 
-<br> ☁️ [**AI Studio project**](https://github.com/maggieyung/AI-studio) as part of **Break Through Tech AI MIT** (ongoing work-in-progress)
+<br> 🥖 [**AI Studio project**](https://github.com/maggieyung/AI-studio) as part of **Break Through Tech AI MIT** (ongoing work-in-progress)
 - *More details soon!*
 
 <br>
