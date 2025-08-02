@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML** or **full stack development**!
-
 <br>
 
 ## 🫧 Tech Stack
@@ -28,14 +27,12 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 **• Programming:** Python, C, C#, Java, HTML/CSS, C++, PowerShell, JavaScript
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E)
-
 <br>
 
 ## 🌲 Contact
 **Email:** maggieyung677@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/maggieyung/
-
 <br>
 
 ## ⭐ Featured Project
@@ -43,7 +40,6 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 [Government Confidence and Corruption Perception ML Model](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
 A supervised regression machine learning model coded in Python using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn libraries, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
-
 <br>
 
 ## 🍏 Other Projects
@@ -61,7 +57,6 @@ A supervised regression machine learning model coded in Python using NumPy, Pand
 
 <br> ☁️ [**AI Studio project**](https://github.com/maggieyung/AI-studio) as part of **Break Through Tech AI MIT** (ongoing work-in-progress)
 - *More details soon!*
-
 
 <br>
 
