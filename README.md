@@ -52,7 +52,7 @@ I am currently developing a 2.5D pixel role-playing game in Unity using C#!
 
 ## 🍀 Art
 
-I am also an **illustrator & concept artist** open for freelance or contract work! 
+I am an **illustrator & concept artist** open for freelance or contract work! 
 
 <img height="270" alt="mizore" src="https://github.com/user-attachments/assets/355da600-3d90-45b8-8add-a77f71189ffd" />
 
