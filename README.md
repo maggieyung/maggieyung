@@ -35,17 +35,12 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 **LinkedIn:** https://www.linkedin.com/in/maggieyung/
 <br>
 
-## ⭐ Featured Project
-**eCornell Portfolio**
-[Government Confidence and Corruption Perception ML Model](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
+## 🍏 Featured Projects
+⭐ [**Government Confidence and Corruption Perception ML Model**](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
-A supervised regression machine learning model coded in Python using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn libraries, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
-<br>
+- A supervised regression machine learning model coded in Python using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn libraries, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
 
-## 🍏 Other Projects
-
-
-⛄ **2.5D Pixel Role-Playing Game**
+<br> ⛄ **2.5D Pixel Role-Playing Game**
   
 - 2.5D game built in Unity using C#, implementing my own illustrations andanimations as the in-game assets, and integrating visual shaders, a 3D environment, and narrative elements
 - Designed game mechanics and scriptable objects to manage UI overlays and dialogue systems, reinforcing skills in object-orientated design, singleton and observer design patterns, and decomposition
