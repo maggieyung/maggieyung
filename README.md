@@ -34,7 +34,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 ## ⭐ Featured Project
 [Government Confidence and Corruption Perception ML Model](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
-• A supervised regression machine learning model using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset
+A supervised regression machine learning model using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset
 
 
 ## 🍏 What I'm Up To
@@ -65,7 +65,7 @@ I am an **illustrator & concept artist** open for freelance or contract work!
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=flat&logo=ClipStudioPaint&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-## 🧸 Thank you!
+## 🧸
 
 Fun fact: I like cats, eerie environments, and Pingu!! 
 
