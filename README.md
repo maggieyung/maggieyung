@@ -32,6 +32,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 **LinkedIn:** https://www.linkedin.com/in/maggieyung/
 
 ## ⭐ Featured Project
+eCornell Portfolio
 [Government Confidence and Corruption Perception ML Model](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
 A supervised regression machine learning model using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset
