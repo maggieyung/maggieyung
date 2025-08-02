@@ -41,7 +41,7 @@ I am currently developing a 2.5D pixel role-playing game in Unity using C#!
 
 <img width="165" height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" />
 
-<br> [Check out my AI Studio project as part of Break Through Tech AI MIT!](https://github.com/maggieyung/AI-studio)
+<br> You can also check out my [AI Studio project](https://github.com/maggieyung/AI-studio) as part of Break Through Tech AI MIT!
 
 <br>
 
