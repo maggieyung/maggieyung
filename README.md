@@ -53,8 +53,6 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 <br> 🥖 [**AI Studio project**](https://github.com/maggieyung/AI-studio) as part of **Break Through Tech AI MIT** (ongoing work-in-progress)
 - *More details soon!*
 
-<br>
-
 ## 🍀 Art
 
 I am also an **illustrator & concept artist** open for freelance or contract work! 
