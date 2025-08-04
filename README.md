@@ -19,7 +19,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 <br>
 
 ## 🫧 Tech Stack
-**•	Tools and packages:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy, Word2Vec, Unity
+**•	Packages and Tools:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy, Word2Vec, Unity
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 
@@ -36,7 +36,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 <br>
 
 ## 🍏 Featured Projects
-⭐ [**Government Confidence and Corruption Perception ML Model**](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
+🧃 [**Government Confidence and Corruption Perception ML Model**](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
 - A supervised regression machine learning model coded in Python using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn libraries, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
 
