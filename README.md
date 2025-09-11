@@ -40,7 +40,7 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 
 - Machine learning model built using Python, predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
 
-<br> ⛄ **2.5D Pixel Role-Playing Game**
+<br> ⛄ [**2.5D Pixel Role-Playing Game**](https://github.com/maggieyung/pixel-rpg/tree/main)
 
 - 2.5D game built in Unity using C#, implementing my own illustrations and animations as the in-game assets.
 
