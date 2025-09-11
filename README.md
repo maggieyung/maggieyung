@@ -38,20 +38,19 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 ## 🍏 Featured Projects
 🧃 [**Government Confidence and Corruption Perception ML Model**](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
-- A supervised regression machine learning model coded in Python using NumPy, Pandas, Matplotlib, Seaborn, SciPy, and Sklearn libraries, with the goal of predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
+- Machine learning model built using Python, predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
 
 <br> ⛄ **2.5D Pixel Role-Playing Game**
-  
-- 2.5D game built in Unity using C#, implementing my own illustrations and animations as the in-game assets, and integrating visual shaders, a 3D environment, and narrative elements
-- Designed game mechanics and scriptable objects to manage UI overlays and dialogue systems, reinforcing skills in object-orientated design, singleton and observer design patterns, and decomposition
+
+- 2.5D game built in Unity using C#, implementing my own illustrations and animations as the in-game assets.
 
 <img height="300" alt="unity" src="https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2" />
 
 <img width="165" height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" />
 
 
-<br> 🥖 [**AI Studio project**](https://github.com/maggieyung/AI-studio) as part of **Break Through Tech AI MIT** (ongoing work-in-progress)
-- *More details soon!*
+<br> 🥖 [**AI Studio project**](https://github.com/maggieyung/AI-studio) 
+
 
 ## 🍀 Art
 
