@@ -47,7 +47,7 @@ My name is Maggie, and I'm an undergraduate **software developer** studying CS @
 
 <br> ⛄ [**2.5D Pixel Role-Playing Game**](https://github.com/maggieyung/pixel-rpg/tree/main)
 
-- Built in Unity using C#, implementing my own illustrations and animations as the in-game assets.
+- Built in Unity using C#, tech and art lead
 
 <img height="300" alt="unity" src="https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2" />
 
@@ -56,7 +56,7 @@ My name is Maggie, and I'm an undergraduate **software developer** studying CS @
 
 <br> 🧃 [**AI Studio project**](https://github.com/elisaxintongyu/BTTAI_SymbolicAI)
 
-- Break Through Tech AI Fall project
+- Neuro-symbolic AI project, Break Through Tech AI
 
 
 ## 🍀 Art
