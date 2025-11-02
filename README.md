@@ -42,6 +42,7 @@ My name is Maggie, and I'm an undergraduate **software developer** studying CS @
 **LinkedIn:** [/in/maggieyung/](https://www.linkedin.com/in/maggieyung/)
 <br>
 
+
 ## 🍏 Featured Projects
 
 <br> ⛄ [**2.5D Pixel Role-Playing Game**](https://github.com/maggieyung/pixel-rpg/tree/main)
