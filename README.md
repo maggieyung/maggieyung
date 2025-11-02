@@ -21,7 +21,16 @@ My name is Maggie, and I'm an undergraduate **software developer** studying CS @
 [Visit my website here!](https://maggieyung.github.io/)
 
 
-<img width="500" height="216" alt="image" src="https://github.com/user-attachments/assets/3836fdc5-45f5-4489-8cc2-68f77a187d7a" />
+
+<a href="https://maggieyung.github.io/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github.com/user-attachments/assets/3836fdc5-45f5-4489-8cc2-68f77a187d7a"
+    alt="web"
+    width="500"
+    height="216"
+    loading="lazy"
+  />
+</a>
 
 
 
