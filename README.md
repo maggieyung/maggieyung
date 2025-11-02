@@ -87,7 +87,7 @@ Fun fact: I like cats and Pingu!!
 
 <br>
 Thank you for reading! 
-<img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
+<img align="center" height="80" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
 
 
 
