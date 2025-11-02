@@ -15,25 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML**, **full-stack development**, or **game development**!
+My name is Maggie, and I'm an undergraduate **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML**, **full-stack development**, or **game development**!
 <br>
 
 [Visit my website here!](https://maggieyung.github.io/)
 
 
-<img width="500" height="264" alt="image" src="https://github.com/user-attachments/assets/cd8a95a0-7cd1-41f5-a65e-f6f82abfccaf" />
+<img width="500" height="216" alt="image" src="https://github.com/user-attachments/assets/3836fdc5-45f5-4489-8cc2-68f77a187d7a" />
 
 
 
 ## 🫧 Tech Stack
-**•	Packages and Tools:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy, Word2Vec, Unity
+**•	Packages and Tools:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy, Unity
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 
 
-**• Programming:** Python, C, C#, Java, HTML/CSS, C++, PowerShell, JavaScript
+**• Programming:** Python, C, C#, Java, HTML/CSS, JavaScript, C++,
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 <br>
 
 ## 🌲 Contact
@@ -43,20 +43,19 @@ My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston w
 <br>
 
 ## 🍏 Featured Projects
-🧃 [**Government Confidence and Corruption Perception ML Model**](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
-
-- Machine learning model built using Python, predicting a numerical score for perceptions of corruption and confidence in national government, based on the World Happiness Report (WHR) dataset.
 
 <br> ⛄ [**2.5D Pixel Role-Playing Game**](https://github.com/maggieyung/pixel-rpg/tree/main)
 
-- 2.5D game built in Unity using C#, implementing my own illustrations and animations as the in-game assets.
+- Built in Unity using C#, implementing my own illustrations and animations as the in-game assets.
 
 <img height="300" alt="unity" src="https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2" />
 
 <img width="165" height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" />
 
 
-<br> 🥖 [**AI Studio project**](https://github.com/maggieyung/AI-studio) 
+<br> 🧃 [**AI Studio project**](https://github.com/elisaxintongyu/BTTAI_SymbolicAI)
+
+- Break Through Tech AI Fall project
 
 
 ## 🍀 Art
