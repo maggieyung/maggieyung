@@ -54,9 +54,9 @@ My name is Maggie, and I'm an undergraduate **software developer** studying CS @
 <img width="165" height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" />
 
 
-<br> 🧃 [**AI Studio project**](https://github.com/elisaxintongyu/BTTAI_SymbolicAI)
+<br> 🧃 [**Neuro-Symbolic Monkeys**](https://github.com/elisaxintongyu/BTTAI_SymbolicAI)
 
-- Neuro-symbolic AI project, Break Through Tech AI
+- Break Through Tech AI Fall project, computer vision lead
 
 
 ## 🍀 Art
