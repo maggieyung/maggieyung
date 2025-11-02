@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 My name is Maggie, and I'm a **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML** or **full-stack development**!
 <br>
 
+[Visit my website here!](https://maggieyung.github.io/)
+
+
+<img width="500" height="264" alt="image" src="https://github.com/user-attachments/assets/cd8a95a0-7cd1-41f5-a65e-f6f82abfccaf" />
+
+
+
 ## 🫧 Tech Stack
 **•	Packages and Tools:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy, Word2Vec, Unity
 
