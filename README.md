@@ -93,7 +93,7 @@ Fun fact: I like cats and Pingu!!
 
 <a href="https://maggieyung.github.io/notes/index.html" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://github.com/user-attachments/assets/667944f7-4264-4cb4-839d-e110367086c7"
+    src="https://github.com/user-attachments/assets/a8ab3e14-e87e-4365-812a-411db7ea135d"
     alt="web"
     width="305"
     loading="lazy"
@@ -109,7 +109,6 @@ Fun fact: I like cats and Pingu!!
   />
 </a>
 <br>
-
 
 
 <br>
