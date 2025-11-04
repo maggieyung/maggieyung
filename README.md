@@ -19,6 +19,8 @@ My name is Maggie, and I'm an undergraduate **software developer** studying CS @
 <br>
 
 <b>[<u>Visit my website here!<u>](https://maggieyung.github.io/)<b>
+<img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
+
 
 
 <a href="https://maggieyung.github.io/" target="_blank" rel="noopener noreferrer">
