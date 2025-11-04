@@ -81,12 +81,6 @@ I am also an **illustrator & concept artist** open for freelance or contract wor
 
 ## 🧸 Other
 
-Fun fact: I like cats and Pingu!! 
-
-<img width="300" height="150" alt="image (6)" src="https://github.com/user-attachments/assets/dac75b3e-e72e-43fc-9e1d-62859d5e51a1" />
-<br>
-
-
 <br>
 
 <b>Feel free to leave a note in my [<u>anonymous guestbook!<u>](https://maggieyung.github.io/notes/index.html)<b>
