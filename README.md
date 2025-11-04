@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 My name is Maggie, and I'm an undergraduate **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML**, **full-stack development**, or **game development**!
 <br>
 
-[Visit my website here!](https://maggieyung.github.io/)
-
+<b>[<u>Visit my website here!<u>](https://maggieyung.github.io/)<b>
 
 
 <a href="https://maggieyung.github.io/" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://github.com/user-attachments/assets/3836fdc5-45f5-4489-8cc2-68f77a187d7a"
+    src="https://github.com/user-attachments/assets/8c701d7d-ced6-4a07-8785-7cdae223caaa"
     alt="web"
-    width="500"
-    height="216"
+    height="160"
     loading="lazy"
   />
 </a>
@@ -84,10 +82,41 @@ I am also an **illustrator & concept artist** open for freelance or contract wor
 Fun fact: I like cats and Pingu!! 
 
 <img width="300" height="150" alt="image (6)" src="https://github.com/user-attachments/assets/dac75b3e-e72e-43fc-9e1d-62859d5e51a1" />
+<br>
+
+
+<br>
+
+<b>Feel free to leave a note in my [<u>anonymous guestbook!<u>](https://maggieyung.github.io/notes/index.html)<b>
+
+
+
+<a href="https://maggieyung.github.io/notes/index.html" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github.com/user-attachments/assets/667944f7-4264-4cb4-839d-e110367086c7"
+    alt="web"
+    width="305"
+    loading="lazy"
+  />
+</a>
+<br>
+<a href="https://maggieyung.github.io/notes/index.html" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github.com/user-attachments/assets/d12e0235-e782-4518-a0e0-65f9bd74d673"
+    alt="web"
+    width="305"
+    loading="lazy"
+  />
+</a>
+<br>
+
+
 
 <br>
 Thank you for reading! 
 <img align="center" height="80" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
+<br>
+
 
 
 
