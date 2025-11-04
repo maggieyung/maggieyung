@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Maggie, and I'm an undergraduate **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML**, **full-stack development**, or **game development**!
+My name is Maggie, and I'm a  **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML**, **full-stack development**, or **game development**!
 <br>
 
 <b>[<u>Visit my website here!<u>](https://maggieyung.github.io/)<b>
