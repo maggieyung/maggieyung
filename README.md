@@ -35,15 +35,19 @@ My name is Maggie, and I'm a  **software developer** studying CS @ UMass Boston 
 
 
 ## 🫧 Tech Stack
-**•	Packages and Tools:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy, Unity
+**•	Packages:** Jupyter, Pandas, Matplotlib, Scikit-Learn, NumPy, Seaborn, Keras, pickle, SciPy
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 
 
-**• Programming:** Python, C, C#, Java, HTML/CSS, JavaScript, C++,
+**• Languages:** Python, C, C#, Java, HTML/CSS, JavaScript, C++,
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 <br>
+
+**• Software:** Unity (UI Toolkit), Adobe Suite, Blender, Git, Figma
+
+**• Game Development:** UI/UX, Design Documentation, Unit Testing, Version Control, QA Testing, AGILE
 
 ## 🌲 Contact
 **Email:** maggieyung677@gmail.com
