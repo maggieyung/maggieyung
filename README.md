@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎐 My name is Maggie, and I'm a  **software developer** studying CS @ UMass Boston with a passion for graphics and design. 
 
-🍈 Seeking Summer 2026 **AI/ML**, **full-stack development**, or **game development**!
+🍈 Seeking Summer 2026 roles in **AI/ML**, **full-stack development**, or **game development**!
 <br>
 
 <b>[<u>Visit my website here!<u>](https://maggieyung.github.io/)<b>
