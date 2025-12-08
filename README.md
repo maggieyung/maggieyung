@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Maggie, and I'm a  **software developer** studying CS @ UMass Boston with a passion for graphics and design. I am **open** to both internship or research opportunities in **AI/ML**, **full-stack development**, or **game development**!
+🎐 My name is Maggie, and I'm a  **software developer** studying CS @ UMass Boston with a passion for graphics and design. 
+
+🍈 Seeking Summer 2026 **AI/ML**, **full-stack development**, or **game development**!
 <br>
 
 <b>[<u>Visit my website here!<u>](https://maggieyung.github.io/)<b>
@@ -63,8 +65,7 @@ My name is Maggie, and I'm a  **software developer** studying CS @ UMass Boston 
 
 
 ## 🍏 Featured Projects
-
-<br> ⛄ [**2.5D Pixel Role-Playing Game**](https://github.com/maggieyung/pixel-rpg/tree/main)
+⛄ [**2.5D Pixel Role-Playing Game**](https://github.com/maggieyung/pixel-rpg/tree/main)
 
 - Built in Unity using C#, tech and art lead
 
@@ -90,8 +91,6 @@ I am also an **illustrator & concept artist** open for freelance or contract wor
 
 
 ## 🧸 Other
-
-<br>
 
 <b>Feel free to leave a note in my [<u>anonymous guestbook!<u>](https://maggieyung.github.io/notes/index.html)<b>
 
