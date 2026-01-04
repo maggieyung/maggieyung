@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🍈 Seeking Summer 2026 roles in **AI/ML**, **full-stack development**, or **game development**!
 <br>
 
-<b>[<u>Visit my website here!<u>](https://maggieyung.github.io/)<b>
+<b>[<u>Visit my website here!<u>](https://maggieyung.github.io/about)<b>
 <img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
 
 
