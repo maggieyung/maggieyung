@@ -76,7 +76,7 @@ Designed a browser-based interactive guestbook for collaborative editing and 2D/
 
 
 
-⛄ **<u>2.5D Role-Playing Game</u>**
+⛄ <b><u>2.5D Role-Playing Game</u></b>
 
 2.5D top-down game built in Unity using C#, integrating visual shaders and narrative elements 
 - **Toolkit:** C#, Unity (UI Toolkit), Adobe Photoshop, Blender, Clip Studio Paint
