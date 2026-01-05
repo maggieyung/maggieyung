@@ -48,7 +48,7 @@
 
 ## 🍏 Featured Projects
 
-🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/pixel-rpg/tree/main)
+🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/ecornell-portfolio/)
 
 Built predictive regression models using the World Happiness Report (WHR) dataset to identify key factors influencing government trust and corruption perceptions across 156 countries
 
