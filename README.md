@@ -1,8 +1,8 @@
-# Hello, I'm Maggie (she/her)! 🐧
+# Hello, I'm Maggie! 🐧
 
-🎐 **Junior @ UMass Boston**, studying **Computer Science** with a background in machine learning 
+🎐 I'm a **Junior @ UMass Boston**, studying **Computer Science** with a background in machine learning 
 <br>
-🪼 Passion for **graphics, design, and visual development**
+🪼 Passion for **graphics, art/design, and visual development**
 <br>
 ⚙️ Tech and data enthusiast
 <br>
@@ -11,6 +11,7 @@
 <b>[<u>Visit my website here!</u>](https://maggieyung.github.io/about)</b>
 <img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
 
+I enjoy working with data, leveraging technology to build practical solutions that address real-world challenges, and building visually engaging interfaces. I'm currently strengthening my foundation in machine learning at Break Through Tech AI's program @ MIT, where my team and I partnered with industry challenge advisors to integrate deep learning models with symbolic AI. I'm eager to gain hands-on experience through innovative industry projects!
 
 
 <a href="https://maggieyung.github.io/" target="_blank" rel="noopener noreferrer">
@@ -48,7 +49,7 @@
 
 ## 🍏 Featured Projects
 
-🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/ecornell-portfolio/)
+1. 🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/ecornell-portfolio/)
 
 Built predictive regression models using the World Happiness Report (WHR) dataset to identify key factors influencing government trust and corruption perceptions across 156 countries
 
@@ -58,7 +59,7 @@ Built predictive regression models using the World Happiness Report (WHR) datase
   - Techniques: Scaling/normalization, feature engineering, cross-validation, hyperparameter tuning
 - **Learnings:** Building an end-to-end ML supervised regression pipeline from scratch (data preprocessing, feature engineering, model evaluation, selection)
 
-📓 [**Collaborative Web Guestbook**](https://github.com/maggieyung/maggieyung.github.io/tree/main/notes)
+2. 📓 [**Collaborative Web Guestbook**](https://github.com/maggieyung/maggieyung.github.io/tree/main/notes)
 
 Designed a browser-based interactive guestbook for collaborative editing and 2D/3D rendering
 - **Tech Stack:** JavaScript, WebGL, Three.js, HTML, CSS, Firebase Realtime Database
@@ -70,7 +71,7 @@ Designed a browser-based interactive guestbook for collaborative editing and 2D/
 
 
 
-⛄ <b><u>2.5D Role-Playing Game</u></b>
+3. ⛄ <b><u>2.5D Role-Playing Game</u></b>
 
 2.5D top-down game built in Unity using C#, integrating visual shaders and narrative elements 
 - **Toolkit:** C#, Unity (UI Toolkit), Adobe Photoshop, Blender, Clip Studio Paint
