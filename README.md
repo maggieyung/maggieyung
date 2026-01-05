@@ -45,10 +45,16 @@
 
 **• Game Development:** UI/UX, Design Documentation, Unit Testing, Version Control, Quality Assurance, AGILE
 
+## 🌲 Contact
+**Email:** maggieyung677@gmail.com
+
+**LinkedIn:** [/in/maggieyung/](https://www.linkedin.com/in/maggieyung/)
+<br>
+
 
 ## 🍏 Featured Projects
 
-1. 🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/pixel-rpg/tree/main)
+🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/pixel-rpg/tree/main)
 
 Built predictive regression models using the World Happiness Report (WHR) dataset to identify key factors influencing government trust and corruption perceptions across 156 countries
 
@@ -58,7 +64,7 @@ Built predictive regression models using the World Happiness Report (WHR) datase
   - Techniques: Scaling/normalization, feature engineering, cross-validation, hyperparameter tuning
 - **Learnings:** Building an end-to-end ML supervised regression pipeline from scratch (data preprocessing, feature engineering, model evaluation, selection)
 
-2. 📓 [**Collaborative Web Guestbook**](https://github.com/maggieyung/maggieyung.github.io/tree/main/notes)
+📓 [**Collaborative Web Guestbook**](https://github.com/maggieyung/maggieyung.github.io/tree/main/notes)
 
 Designed a browser-based interactive guestbook for collaborative editing and 2D/3D rendering
 - **Tech Stack:** JavaScript, WebGL, Three.js, HTML, CSS, Firebase Realtime Database
@@ -66,19 +72,17 @@ Designed a browser-based interactive guestbook for collaborative editing and 2D/
   - Implemented cloud backend for live syncing of drawing actions and real-time canvas updates (Users can draw together simultaneously in real-time)
 - **Learnings:** ES6 JavaScript modules, Firebase snapshots, 3D graphics, DOM manipulations, front-end form handling, user interaction, off-screen buffers
 
-<img  height="270" src="https://raw.githubusercontent.com/maggieyung/maggieyung.github.io/main/img/paintfun.gif"/> <img height="270" alt="image" src="https://github.com/user-attachments/assets/b80f66a4-57ed-49b1-ae9c-80ab6ef8377e" />
+<img  height="300" src="https://raw.githubusercontent.com/maggieyung/maggieyung.github.io/main/img/paintfun.gif"/> <img height="300" alt="image" src="https://github.com/user-attachments/assets/b80f66a4-57ed-49b1-ae9c-80ab6ef8377e" />
 
 
 
-3. ⛄ **2.5D Role-Playing Game**
+⛄ **<u>2.5D Role-Playing Game</u>**
 
 2.5D top-down game built in Unity using C#, integrating visual shaders and narrative elements 
 - **Toolkit:** C#, Unity (UI Toolkit), Adobe Photoshop, Blender, Clip Studio Paint
 - **Learnings:** Designed game mechanics and scriptable objects to manage UI overlays and dialogue systems, applying object-orientated design principles, singleton and observer design patterns, and decomposition skills
 
-<img height="300" alt="unity" src="https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2" /> <img width="165" height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" />
-
-
+<img height="230" alt="unity" src="https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2" /> <img height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" /> <img  height="230" src="https://raw.githubusercontent.com/maggieyung/maggieyung.github.io/main/img/walkidle.gif"/>
 
 
 ## 🍀 Art
@@ -117,16 +121,14 @@ I am also an **illustrator & concept artist** open for freelance or contract wor
 </a>
 <br>
 
-## 🌲 Contact
-**Email:** maggieyung677@gmail.com
-
-**LinkedIn:** [/in/maggieyung/](https://www.linkedin.com/in/maggieyung/)
-<br>
 
 
 <br>
 Thank you for reading! 
 <img align="center" height="80" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
 <br>
+
+
+
 
 
