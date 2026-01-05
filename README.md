@@ -11,7 +11,7 @@
 <b>[<u>Visit my website here!</u>](https://maggieyung.github.io/about)</b>
 <img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
 
-I enjoy working with data, leveraging technology to build practical solutions that address real-world challenges, and building visually engaging interfaces. I'm currently strengthening my foundation in machine learning at Break Through Tech AI's program @ MIT, where my team and I partnered with industry challenge advisors to integrate deep learning models with symbolic AI. I'm eager to gain hands-on experience through innovative industry projects!
+I enjoy working with data, leveraging technology to build practical solutions that address real-world challenges, and creating things that enrich people's lives! I'm currently strengthening my foundation in machine learning at Break Through Tech AI's program @ MIT, where my team and I partnered with industry challenge advisors to integrate deep learning models with symbolic AI. I'm eager to gain hands-on experience through innovative industry projects!
 
 
 <a href="https://maggieyung.github.io/" target="_blank" rel="noopener noreferrer">
