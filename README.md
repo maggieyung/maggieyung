@@ -45,12 +45,6 @@
 
 **• Game Development:** UI/UX, Design Documentation, Unit Testing, Version Control, Quality Assurance, AGILE
 
-## 🌲 Contact
-**Email:** maggieyung677@gmail.com
-
-**LinkedIn:** [/in/maggieyung/](https://www.linkedin.com/in/maggieyung/)
-<br>
-
 
 ## 🍏 Featured Projects
 
@@ -121,6 +115,11 @@ I am also an **illustrator & concept artist** open for freelance or contract wor
 </a>
 <br>
 
+## 🌲 Contact
+**Email:** maggieyung677@gmail.com
+
+**LinkedIn:** [/in/maggieyung/](https://www.linkedin.com/in/maggieyung/)
+<br>
 
 
 <br>
