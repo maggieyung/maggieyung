@@ -71,11 +71,11 @@ Designed a browser-based interactive guestbook for collaborative editing and 2D/
 
 
 
-3. ⛄ <b><u>2.5D Role-Playing Game</u></b>
+3. ⛄ <b><u>2.5D Top-down Adventure Role-Playing Game</u></b>
 
-2.5D top-down game built in Unity using C#, integrating visual shaders and narrative elements 
+Managed an independent 2.5D game, creating original assets, including: 2D illustrations, 3D models, character animations, environmental assets, shaders, stylized VFX, and PBR materials, specializing in visual storytelling and expressive character work
 - **Toolkit:** C#, Unity (UI Toolkit), Adobe Photoshop, Blender, Clip Studio Paint
-- **Learnings:** Designed game mechanics and scriptable objects to manage UI overlays and dialogue systems, applying object-orientated design principles, singleton and observer design patterns, and decomposition skills
+- **Learnings:** Designed core gameplay mechanics, including inventory, dialogue, UI, narrative elements, player interactions, and procedural systems, using scriptable objects, state machines, and object-oriented principles
 
 <img height="230" alt="unity" src="https://github.com/user-attachments/assets/9d95701a-881f-44b3-a871-1ca63558ded2" /> <img height="230" alt="char" src="https://github.com/user-attachments/assets/80d00458-f580-4a92-9140-8c455371d8a8" /> <img  height="230" src="https://raw.githubusercontent.com/maggieyung/maggieyung.github.io/main/img/walkidle.gif"/>
 
