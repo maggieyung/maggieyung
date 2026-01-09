@@ -51,7 +51,7 @@ I enjoy working with data, leveraging technology to build practical solutions th
 
 1. 🗄️ [**Government Confidence (WHR) ML Model**](https://github.com/maggieyung/ecornell-portfolio/)
 
-Built predictive regression models using the World Happiness Report (WHR) dataset to identify key factors influencing government trust and corruption perceptions across 156 countries
+Built predictive regression models using the World Happiness Report (WHR) dataset to identify key factors influencing government trust and corruption perceptions
 
 - **Tech Stack:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 - **Result:** Achieved RMSE of 0.0364 and MAE of 0.0335 after model selection
