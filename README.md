@@ -1,12 +1,10 @@
-# Hello, I'm Maggie! 🐧
+# Hi, I'm Maggie! 🐧
 
 🎐 I'm a **Junior @ UMass Boston**, studying **Computer Science** with a background in machine learning 
 <br>
 🪼 Passion for **graphics, art/design, and visual development**
 <br>
-⚙️ Tech and data enthusiast
-<br>
-🍈 Seeking Summer 2026 internships or research roles in **AI/ML**, **full-stack development**, or **game development**! 
+🍈 Seeking Summer 2026 internships or research roles in **AI/ML**, **full-stack development**, or **game development**
  
 <b>[<u>Visit my website here!</u>](https://maggieyung.github.io/about)</b>
 <img align="center" height="50" alt="gif" src="https://github.com/user-attachments/assets/36820af0-e9ef-45a1-8acd-df14bd77a655" />
