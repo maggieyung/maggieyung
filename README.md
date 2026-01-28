@@ -29,7 +29,7 @@ I enjoy working with data, leveraging technology to build practical solutions th
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-**•	ML/DL:** Keras, Pandas, Matplotlib, NumPy, scikit-learn, Ultralytics, SciPy
+**•	ML/DL & Data:** Keras, Pandas, Matplotlib, NumPy, scikit-learn, Ultralytics, SciPy
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=flat&logo=ultralytics&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
@@ -37,7 +37,7 @@ I enjoy working with data, leveraging technology to build practical solutions th
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#) [![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)](#) [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 
-**• Software:** Unity (UI Toolkit), Adobe Suite (Photoshop, After Effects), Blender, Figma, Asesprite, Live2D Cubism
+**• Software:** Unity (UI Toolkit), Adobe Suite (Photoshop, After Effects), Blender, Figma, Asesprite, Maya, Unreal Engine (Unreal Blueprints)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
 
@@ -67,9 +67,14 @@ Designed a browser-based interactive guestbook for collaborative editing and 2D/
 
 <img  height="300" src="https://raw.githubusercontent.com/maggieyung/maggieyung.github.io/main/img/paintfun.gif"/> <img height="300" alt="image" src="https://github.com/user-attachments/assets/b80f66a4-57ed-49b1-ae9c-80ab6ef8377e" />
 
+3. 🪼 [**3D Web & AR App**]([https://github.com/maggieyung/maggieyung.github.io/tree/main/notes](https://github.com/maggieyung/cs460student/tree/main))
+
+3D web-based graphics pipeline with user-focused visualization tools, including augmented reality (AR), marker-based visualization, and real-time performance monitoring
+- **Tech Stack:** JavaScript, HTML/CSS, WebGL & WebGPU, Three.js, Babylon.js, AR.js, Tweakpane
+- **Learnings:** Developed modular visual debugging tools and Ul control panel to dynamically configure scene parameters like rendering modes (anaglyph), camera, wireframes, materials, and mesh rotations
 
 
-3. ⛄ <b><u>2.5D Top-down Adventure Role-Playing Game</u></b>
+4. ⛄ <b><u>2.5D Top-down Adventure Role-Playing Game</u></b>
 
 Managed an independent 2.5D game, creating original assets, including: 2D illustrations, 3D models, character animations, environmental assets, shaders, stylized VFX, and PBR materials, specializing in visual storytelling and expressive character work
 - **Toolkit:** C#, Unity (UI Toolkit), Adobe Photoshop, Blender, Clip Studio Paint
